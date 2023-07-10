@@ -4,7 +4,9 @@ The Uni Calendar iOS app is a powerful tool designed to help users manage their 
 
 ## Screenshots
 
-|![alt](./Img/1.png) |![alt](./Img/4.png)|
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](./Img/1.png)  |  ![](./Img/4.png)
 
 ## Key Features
 
