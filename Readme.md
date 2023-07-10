@@ -35,10 +35,10 @@ The app is currently under production.
 - iOS device running iOS version 15.0 or above.
 
 ## Contributions
-Contributions to the app are welcome! Please contact the app's developer at `developer@example.com`.
+Contributions to the app are welcome! Please contact the app's developer at `ninar@ninaryoukhanna.pl`.
 
 ## License
 This app is released under the NY Group License.
 
 ## Contact
-For any inquiries or support, please contact the app's developer at `developer@example.com`.
+For any inquiries or support, please contact the app's developer at `ninar@ninaryoukhanna.pl`.
