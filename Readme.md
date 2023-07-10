@@ -34,7 +34,9 @@ The Class Schedule Tab allows users to manage their class schedule. Users can ad
 ## Preview
 The app is currently under production. However, here are some screenshots of the app and its features.
 
-
+![](./Img/6.png)   |  ![](./Img/5.png) 
+:-------------------------:|:-------------------------:
+![](./Img/2.png)  |  ![](./Img/3.png)
 
 
 ## Requirements
