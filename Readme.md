@@ -1,6 +1,6 @@
-# Uni Calendar iOS App
+# CalenSmart iOS App
 
-The Uni Calendar iOS app is a powerful tool designed to help users manage their events, stay organized with a calendar, and keep track of their class schedule. With a user-friendly interface and intuitive features, the app simplifies event management and scheduling tasks, making it an essential companion for individuals with busy lives.
+The CalenSmart iOS app is a powerful tool designed to help users manage their events, stay organized with a calendar, and keep track of their class schedule. With a user-friendly interface and intuitive features, the app simplifies event management and scheduling tasks, making it an essential companion for individuals with busy lives.
 
 ## Screenshots
 
